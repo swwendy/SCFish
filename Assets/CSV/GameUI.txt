@@ -1,0 +1,1 @@
+PrefabName,HorizontalPrefab,VerticalPrefab,界面资源名称,横屏prefab,竖屏prefab,备注RoomTable,Lobby_matching_Room,Lobby_matching_Room_Sp,房间桌子界面MatchUI,Match_process,Match_process_Sp,比赛MatchTable,matching_table_,matching_table_Sp_,比赛MatchReady,matching_table_Ready,matching_table_Ready_Sp,比赛

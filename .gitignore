@@ -1,0 +1,11 @@
+/Android_apk/*
+/Library/*
+/Logs/*
+/obj/*
+/Packages/*
+*.manifest
+*.resource
+*.scene
+*.csproj
+*.meta
+/.vs/*

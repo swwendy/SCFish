@@ -1,0 +1,6 @@
+AudioID,AudioName,Explain,Explain1
+音频ID,音频名称,语音内容,播放时机
+1001,hall,背景音乐,通用背景音效
+1002,UIbutton02,按钮音效,通用按钮音效
+1003,UIbutton01,按钮音效,通用切页音效
+1004,UIbutton05,按钮音效,通用选择音效

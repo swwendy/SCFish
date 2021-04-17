@@ -1,0 +1,27 @@
+//商店类型
+    public enum SHOPTYPE
+    {
+        SHOPTYPE_NONE       = 0,
+        SHOPTYPE_COIN       = 1,           //金币商店
+        SHOPTYPE_DIAMOND    = 2,           //钻石商店
+        SHOPTYPE_EXCHANGE   = 3,           //兑换商店
+    }
+
+    //商店物品类型
+    public enum ITEMTYPE
+    {
+        ITEMTYPE_NONE       = 0,
+        ITEMTYPE_COIN       = 1,           //金币
+        ITEMTYPE_DIAMOND    = 2,           //钻石
+        ITEMTYPE_JINGDONG   = 3,           //京东购物卡
+        ITEMTYPE_MOBILE     = 4,           //手机充值卡
+    }
+
+    //所需货币类型
+    public enum CURRENCYTYPE
+    {
+        CURRENCYTYPE_NONE   = 0,
+        CURRENCYTYPE_RMB    = 1,            //人民币
+        CURRENCYTYPE_DIAMOND= 2,            //钻石
+        CURRENCYTYPE_LOTTERY= 3,            //奖券
+    }

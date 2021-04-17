@@ -1,0 +1,4 @@
+﻿using System.Collections;using System.Collections.Generic;using UnityEngine;using XLua;[Hotfix]public class BillBoard : MonoBehaviour{    public CGame_BlackJack GameBase    {        get;        set;    }    public GameObject Target    {        get;        set;    }	// Use this for initialization	void Start ()    {			}		// Update is called once per frame	void Update ()    {    }    public void OnCameraChanged()    {        if (GameBase != null && Target != null)        {            SetPos(GameFunction.WorldToLocalPointInRectangle(Target.transform, GameBase.CurCam, GameBase.m_GameCanvas, GameBase.UICam));        }    }    public void SetPos(Vector2 pos)
+    {
+        RectTransform rectTransform = GetComponent<RectTransform>();
+        rectTransform.localPosition = pos;    }}

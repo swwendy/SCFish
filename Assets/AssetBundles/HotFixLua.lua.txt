@@ -1,0 +1,13 @@
+
+function test()
+   CS.UnityEngine.Debug.Log("i am batcel")
+end
+
+
+function AddHotfix()
+    xlua.hotfix(CS.GameMain,'testmobilehotfix',test)
+end
+
+function ClearHotfix()
+  xlua.hotfix(CS.GameMain,'testmobilehotfix',nil)
+end

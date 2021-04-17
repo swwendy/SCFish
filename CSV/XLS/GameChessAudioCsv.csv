@@ -1,0 +1,12 @@
+AudioID,AudioName,Explain
+音频ID,音频名称,备注
+1000,five_bg,背景音乐
+1001,five_button_1,按钮音效1，通用按钮音效
+1002,xq_naqi,2棋子拿起
+1003,five_button_3,3棋子真正落下时音效
+1004,five_jiesuan_lost,游戏结算失败
+1005,five_jiesuan_win,游戏结算胜利
+1006,five_jinggao,落子时间剩余10秒时播放
+1007,five_jiesuan_lost,游戏结算平局
+1008,xq_chi,吃
+1009,xq_jiangjun,将军

@@ -1,0 +1,1 @@
+AudioID,AudioName,Explain音频ID,音频名称,语音内容1001,Lucky_bg,背景音效循环播放1002,Lucky_zhuan,旋转时音效1003,Lucky_ding,点开始抽奖按钮播放1004,Lucky_zhongjiang,中奖界面出现播1005,UIbutton02,按钮音效1006,UIbutton01,切页按钮音效1007,UIbutton05,选择按钮音效

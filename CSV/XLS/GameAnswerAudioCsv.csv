@@ -1,0 +1,7 @@
+AudioID,AudioName,Explain,Explain1
+音频ID,音频名称,音频内容,播放时间
+1001,five_bg,背景音乐,游戏背景音乐
+1002,AN_jiesuan_1,答对了,出结果
+1003,AN_jiesuan_2,没答对,出结果
+1004,five_button_2,按钮,按钮音效
+1005,AN_didi,报警声,剩余3秒
