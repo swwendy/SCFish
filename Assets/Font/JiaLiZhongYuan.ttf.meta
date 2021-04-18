@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 47072f1c196560f48901f5c77dc4352a
+timeCreated: 1524713404
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tensentype JiaLiZhongYuanJ
+  fontNames:
+  - Tensentype JiaLiZhongYuanJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

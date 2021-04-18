@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 8fb3bb79226da0042a88645139d132c3
+timeCreated: 1517292919
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bone002
+    100004: Bone004
+    100006: Bone005
+    100008: Bone009
+    100010: Bone013
+    100012: Bone015
+    100014: //RootNode
+    100016: eye2_l
+    100018: eye2_r
+    100020: eye_l
+    100022: eye_r
+    100024: face_l
+    100026: face_r
+    100028: meimao_l
+    100030: meimao_r
+    100032: yuqi_l
+    100034: yuqi_r
+    400000: Bip01
+    400002: Bone002
+    400004: Bone004
+    400006: Bone005
+    400008: Bone009
+    400010: Bone013
+    400012: Bone015
+    400014: //RootNode
+    400016: eye2_l
+    400018: eye2_r
+    400020: eye_l
+    400022: eye_r
+    400024: face_l
+    400026: face_r
+    400028: meimao_l
+    400030: meimao_r
+    400032: yuqi_l
+    400034: yuqi_r
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 620
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: DieEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bone002
+        weight: 1
+      - path: Bip01/Bone002/Bone013
+        weight: 1
+      - path: Bip01/Bone002/Bone015
+        weight: 1
+      - path: Bip01/Bone002/eye2_l
+        weight: 1
+      - path: Bip01/Bone002/eye2_r
+        weight: 1
+      - path: Bip01/Bone002/eye_l
+        weight: 1
+      - path: Bip01/Bone002/eye_r
+        weight: 1
+      - path: Bip01/Bone002/face_l
+        weight: 1
+      - path: Bip01/Bone002/face_r
+        weight: 1
+      - path: Bip01/Bone002/meimao_l
+        weight: 1
+      - path: Bip01/Bone002/meimao_r
+        weight: 1
+      - path: Bip01/Bone004
+        weight: 1
+      - path: Bip01/Bone004/Bone005
+        weight: 1
+      - path: Bip01/Bone004/Bone009
+        weight: 1
+      - path: Bip01/Bone004/yuqi_l
+        weight: 1
+      - path: Bip01/Bone004/yuqi_r
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 0c938de70a6879e4291f66cab28f018b
+timeCreated: 1521514711
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: body
+    100004: Bone001
+    100006: Bone002
+    100008: Bone003
+    100010: Bone004
+    100012: boody
+    100014: bozi
+    100016: eye_l
+    100018: eye_r
+    100020: Flshing_Haigui_baoxiang_di
+    100022: Flshing_Haigui_baoxiang_TOP
+    100024: l1
+    100026: l2
+    100028: l3
+    100030: l4
+    100032: l5
+    100034: l6
+    100036: meimao_l
+    100038: meimao_r
+    100040: r1
+    100042: r2
+    100044: r3
+    100046: r4
+    100048: r5
+    100050: r6
+    100052: //RootNode
+    100054: tou
+    100056: weiba1
+    100058: weiba2
+    100060: yanpi_l
+    100062: yanpi_r
+    400000: Bip01
+    400002: body
+    400004: Bone001
+    400006: Bone002
+    400008: Bone003
+    400010: Bone004
+    400012: boody
+    400014: bozi
+    400016: eye_l
+    400018: eye_r
+    400020: Flshing_Haigui_baoxiang_di
+    400022: Flshing_Haigui_baoxiang_TOP
+    400024: l1
+    400026: l2
+    400028: l3
+    400030: l4
+    400032: l5
+    400034: l6
+    400036: meimao_l
+    400038: meimao_r
+    400040: r1
+    400042: r2
+    400044: r3
+    400046: r4
+    400048: r5
+    400050: r6
+    400052: //RootNode
+    400054: tou
+    400056: weiba1
+    400058: weiba2
+    400060: yanpi_l
+    400062: yanpi_r
+    4300000: body
+    4300002: Flshing_Haigui_baoxiang_di
+    4300004: Flshing_Haigui_baoxiang_TOP
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: Flshing_Haigui_baoxiang_di
+    13700004: Flshing_Haigui_baoxiang_TOP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

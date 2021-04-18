@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 93a6ceaa03b25a2469ea5b360bb71438
+timeCreated: 1517292929
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: boody
+    100004: bozi
+    100006: //RootNode
+    100008: eye_l
+    100010: eye_r
+    100012: l1
+    100014: l2
+    100016: l3
+    100018: l4
+    100020: l5
+    100022: l6
+    100024: meimao_l
+    100026: meimao_r
+    100028: r1
+    100030: r2
+    100032: r3
+    100034: r4
+    100036: r5
+    100038: r6
+    100040: tou
+    100042: weiba1
+    100044: weiba2
+    100046: yanpi_l
+    100048: yanpi_r
+    400000: Bip01
+    400002: boody
+    400004: bozi
+    400006: //RootNode
+    400008: eye_l
+    400010: eye_r
+    400012: l1
+    400014: l2
+    400016: l3
+    400018: l4
+    400020: l5
+    400022: l6
+    400024: meimao_l
+    400026: meimao_r
+    400028: r1
+    400030: r2
+    400032: r3
+    400034: r4
+    400036: r5
+    400038: r6
+    400040: tou
+    400042: weiba1
+    400044: weiba2
+    400046: yanpi_l
+    400048: yanpi_r
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 500
+      lastFrame: 531
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: DieEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/boody
+        weight: 1
+      - path: Bip01/bozi
+        weight: 1
+      - path: Bip01/bozi/tou
+        weight: 1
+      - path: Bip01/bozi/tou/eye_l
+        weight: 1
+      - path: Bip01/bozi/tou/eye_r
+        weight: 1
+      - path: Bip01/bozi/tou/meimao_l
+        weight: 1
+      - path: Bip01/bozi/tou/meimao_r
+        weight: 1
+      - path: Bip01/bozi/tou/yanpi_l
+        weight: 1
+      - path: Bip01/bozi/tou/yanpi_r
+        weight: 1
+      - path: Bip01/l1
+        weight: 1
+      - path: Bip01/l1/l2
+        weight: 1
+      - path: Bip01/l1/l2/l3
+        weight: 1
+      - path: Bip01/l4
+        weight: 1
+      - path: Bip01/l4/l5
+        weight: 1
+      - path: Bip01/l4/l5/l6
+        weight: 1
+      - path: Bip01/r1
+        weight: 1
+      - path: Bip01/r1/r2
+        weight: 1
+      - path: Bip01/r1/r2/r3
+        weight: 1
+      - path: Bip01/r4
+        weight: 1
+      - path: Bip01/r4/r5
+        weight: 1
+      - path: Bip01/r4/r5/r6
+        weight: 1
+      - path: Bip01/weiba1
+        weight: 1
+      - path: Bip01/weiba1/weiba2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

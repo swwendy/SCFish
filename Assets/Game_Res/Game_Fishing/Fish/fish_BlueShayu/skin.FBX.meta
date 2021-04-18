@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 4893c79aa5e252b44b12751f4df12adf
+timeCreated: 1521514355
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B_chibang_l
+    100002: B_chibang_r
+    100004: Bip01
+    100006: Bone001
+    100008: Bone002
+    100010: Bone003
+    100012: Bone004
+    100014: Bone006
+    100016: Bone008
+    100018: Bone011
+    100020: Bone025
+    100022: Bone026
+    100024: Bone027
+    100026: Bone028
+    100028: Bone029
+    100030: Bone030
+    100032: Bone031
+    100034: Bone032
+    100036: Flshing_BlueShayu
+    100038: Flshing_BlueShayu_left_eye
+    100040: Flshing_BlueShayu_left_eye_01
+    100042: Flshing_BlueShayu_right_eye
+    100044: Flshing_BlueShayu_right_eye_01
+    100046: Flshing_BlueShayu_right_eye_02
+    100048: Flshing_BlueShayu_right_eye_02 1
+    100050: //RootNode
+    400000: B_chibang_l
+    400002: B_chibang_r
+    400004: Bip01
+    400006: Bone001
+    400008: Bone002
+    400010: Bone003
+    400012: Bone004
+    400014: Bone006
+    400016: Bone008
+    400018: Bone011
+    400020: Bone025
+    400022: Bone026
+    400024: Bone027
+    400026: Bone028
+    400028: Bone029
+    400030: Bone030
+    400032: Bone031
+    400034: Bone032
+    400036: Flshing_BlueShayu
+    400038: Flshing_BlueShayu_left_eye
+    400040: Flshing_BlueShayu_left_eye_01
+    400042: Flshing_BlueShayu_right_eye
+    400044: Flshing_BlueShayu_right_eye_01
+    400046: Flshing_BlueShayu_right_eye_02
+    400048: Flshing_BlueShayu_right_eye_02 1
+    400050: //RootNode
+    4300000: Flshing_BlueShayu
+    4300002: Flshing_BlueShayu_left_eye
+    4300004: Flshing_BlueShayu_right_eye
+    4300006: Flshing_BlueShayu_right_eye_01
+    4300008: Flshing_BlueShayu_left_eye_01
+    4300010: Flshing_BlueShayu_right_eye_02
+    4300012: Flshing_BlueShayu_right_eye_02
+    9500000: //RootNode
+    13700000: Flshing_BlueShayu
+    13700002: Flshing_BlueShayu_left_eye
+    13700004: Flshing_BlueShayu_left_eye_01
+    13700006: Flshing_BlueShayu_right_eye
+    13700008: Flshing_BlueShayu_right_eye_01
+    13700010: Flshing_BlueShayu_right_eye_02
+    13700012: Flshing_BlueShayu_right_eye_02 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
